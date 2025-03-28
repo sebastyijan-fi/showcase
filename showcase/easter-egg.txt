@@ -1,0 +1,5 @@
+Keep up the vibe! ✨
+
+Add your awesome EU-focused project's .json file in this folder by following the CONTRIBUTING.md guide.
+
+We can't wait to see what you've built!
