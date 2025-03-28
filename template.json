@@ -1,0 +1,21 @@
+{
+  "_comment_//_Required_Fields": "------ Please fill in the values below ------",
+  "title": "Your Project Name",
+  "submitter_github": "your-github-username",
+  "project_url": "https://your-project-live-url.com",
+  "image_url": "https://your-image-host.com/image.jpg",
+  "description": "A concise description of your project (1-2 sentences).",
+
+  "_comment_//_Recommended_Fields": "------ Optional but helpful fields ------",
+  "repo_url": "https://github.com/your/repo",
+  "vibecoders_stack_url": "https://vibecoders.eu/stack/your-stack-slug-or-id",
+  "related_tools": [
+    "tool-slug-1",
+    "tool-slug-2"
+  ],
+  "tags": [
+    "tag1",
+    "tag2"
+  ],
+  "based_in": "Country Name"
+}
