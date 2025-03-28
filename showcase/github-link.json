@@ -1,10 +1,10 @@
 {
-  "title": "Placeholder Project Alpha (Example)",
+  "title": "Submit Your Project!",
   "submitter_github": "sebastyijan-fi",
   "project_url": "https://github.com/vibecoders-eu/showcase",
   "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/255px-Flag_of_Europe.svg.png",
-  "description": "This project is featured in the Vibecoders showcase. Click the title or image to see how you can submit your own project!", // Updated description
-  "repo_url": "https://github.com/vibecoders-eu/showcase", 
+  "description": "Add your EU-focused project to our showcase! Click here to visit the GitHub repository and follow the contribution guide.",
+  "repo_url": "https://github.com/vibecoders-eu/showcase",
   "vibecoders_stack_url": "",
   "related_tools": [
     "remix",
@@ -12,10 +12,10 @@
     "tailwind-css"
   ],
   "tags": [
-    "test-data",
-    "placeholder",
-    "sample",
-    "finland"
+    "contribution",
+    "community",
+    "submit",
+    "meta"
   ],
   "based_in": "Finland"
 }
